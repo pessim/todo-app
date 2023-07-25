@@ -10,6 +10,10 @@ first make sure you are familiar with these technologies (read their docs)
 - zod
 - [mantine](https://mantine.dev)
 
+## Prepare
+- install - `npm i`
+- to prepare the db - `npm run prisma push`
+
 ## Your task
 create a todo app with the following features
 - add todo
