@@ -25,15 +25,15 @@ create a todo app with the following features
 - all todos are saved in the database
 - all todos are fetched from the database
 
+## Rules
+- use trpc for all your api calls
+- create prisma models for your todos
+- use all ui components from mantine (buttons, inputs, etc)
+
 ## Example of todo app
 https://todomvc.com/examples/react/#/
 
 ![ToDo App](todo-app-example.png)
-
-### Rules
-- use trpc for all your api calls
-- create prisma models for your todos
-- use all ui components from mantine (buttons, inputs, etc)
 
 
 ### How do I deploy this?
